@@ -11,7 +11,4 @@ public class UrlData {
 
     private String originalUrl;
     private long expirationTime;
-
-    public UrlData(String originalUrl, long expirationTimeInSeconds) {
-    }
 }
